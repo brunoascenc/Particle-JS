@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#particles-js {
+  background-image: url('./img/landing.jpg');
+  height: 100vh;
+  widows: 100vw;
+}
+
+.text {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+  color: aliceblue;
+  position: absolute;
+  top: 40%;
+  font-size: 65px !important;
+}
